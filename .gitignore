@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore Visual Studio user-specific files
+*.suo
+
+# Ignore DocumentLayout.json
+DocumentLayout.json
+
+
 # User-specific files
 *.rsuser
 *.suo
