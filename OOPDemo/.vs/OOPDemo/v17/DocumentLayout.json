@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F09360-FB3F-4ACA-880A-D856440C91F0}|..\\OOPDemoClassLibrary\\OOPDemoClassLibrary.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemoclasslibrary\\classdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\oopdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:oopdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\interfaces\\ivehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:interfaces\\ivehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\classes\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:classes\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\classes\\vehiclefleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:classes\\vehiclefleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\classes\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:classes\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|c:\\users\\ludvi\\desktop\\cursordemo\\oopdemo\\classes\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB7D76-79EC-471A-BB69-80E7F6D7BD3B}|OOPDemo.csproj|solutionrelative:classes\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemoClassLibrary\\ClassDemo.cs",
+              "RelativeDocumentMoniker": "..\\OOPDemoClassLibrary\\ClassDemo.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemoClassLibrary\\ClassDemo.cs",
+              "RelativeToolTip": "..\\OOPDemoClassLibrary\\ClassDemo.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAA5wBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:07:34.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OOPDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\OOPDemo.csproj",
+              "RelativeDocumentMoniker": "OOPDemo.csproj",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\OOPDemo.csproj",
+              "RelativeToolTip": "OOPDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T06:06:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleFleet.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\VehicleFleet.cs",
+              "RelativeDocumentMoniker": "Classes\\VehicleFleet.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\VehicleFleet.cs",
+              "RelativeToolTip": "Classes\\VehicleFleet.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA0wGYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:55:06.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicleOwner.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Interfaces\\IVehicleOwner.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicleOwner.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Interfaces\\IVehicleOwner.cs",
+              "RelativeToolTip": "Interfaces\\IVehicleOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:39:25.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "DataInitializer.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\DataInitializer.cs",
+              "RelativeToolTip": "DataInitializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:34:49.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:27:57.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Truck.cs",
+              "RelativeDocumentMoniker": "Classes\\Truck.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Truck.cs",
+              "RelativeToolTip": "Classes\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:28:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Classes\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\Vehicle.cs",
+              "RelativeToolTip": "Classes\\Vehicle.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv0UAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:20:10.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleOwner.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\VehicleOwner.cs",
+              "RelativeDocumentMoniker": "Classes\\VehicleOwner.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Classes\\VehicleOwner.cs",
+              "RelativeToolTip": "Classes\\VehicleOwner.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:35:01.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ludvi\\Desktop\\CursorDemo\\OOPDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwC0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:19:28.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
